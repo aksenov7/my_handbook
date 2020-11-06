@@ -133,6 +133,7 @@ def search_exist_hb():
             return
 
 def menu():
+    print("Прииветствую вас!")
     search_exist_hb()
     while True:
         choice = your_choice()
